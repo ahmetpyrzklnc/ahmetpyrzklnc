@@ -7,7 +7,7 @@
 ### How to reach me! 👇
 
 [<img align="down" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="down" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="down" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg" />][medium]
 
 

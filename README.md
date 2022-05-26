@@ -6,14 +6,14 @@
 
 ### How to reach me! 👇
 
-[<img align="down" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="down" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="down" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg" />][medium]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
 
 
 
 [linkedin]: https://www.linkedin.com/in/ahmet-kılınç-1040pyrz/
-[gmail]: mailto: ahmtklnc.software@gmail.com
+[gmail]: ahmtklnc.software@gmail.com
 [medium]: https://ahmtklnc.software.medium.com
 
 <br />

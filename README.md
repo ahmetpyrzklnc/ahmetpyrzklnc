@@ -110,7 +110,7 @@ I am currently actively interested in web development technologies and mobile ap
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:candida.ahmetklnc.software@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:ahmetklnc.software@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ahmetpyrzklnc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ahmet-k%C4%B1l%C4%B1n%C3%A7-1040pyrz"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>

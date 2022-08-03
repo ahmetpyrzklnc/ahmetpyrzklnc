@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Ahmet KILINÇ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+Student;Web+and+Mobile-App+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+Student;Web+and+Mobile-App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+</a>
 </p>
 <hr/>
 <h4 align="center">I continue my software adventure, which I started in 2020, by winning Management Information System (MIS) in 2021.
@@ -9,6 +10,7 @@
 I am currently actively interested in web development technologies and mobile application development technologies.
 </h4>
 <br>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=algolia" alt="ahmetpyrzklnc"  /></p>

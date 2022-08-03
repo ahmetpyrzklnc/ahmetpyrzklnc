@@ -16,8 +16,6 @@ I am currently actively interested in web development technologies and mobile ap
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=algolia" alt="ahmetpyrzklnc"  /></p>
 <br>
 
-<h4> Some of the key technologies I use are:
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages

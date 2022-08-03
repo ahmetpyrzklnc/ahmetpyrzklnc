@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ahmet KILINÇ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=EFF1F7 &center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=MIS+-++Computer+Science+Student;Full+Stack+and+ Mobile+App+Developer;HTML%20|%20CSS%20|%20JS%20|%20Flutter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com? &center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=MIS+-++Computer+Science+Student;Full+Stack+and+ Mobile+App+Developer;HTML%20|%20CSS%20|%20JS%20|%20Flutter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I continue my software adventure, which I started in 2020, by winning Management Information System (MIS) in 2021.

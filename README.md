@@ -23,8 +23,8 @@ I am currently actively interested in web development technologies and mobile ap
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <a href="https://www.csharpprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Csharp%20-%232370ED.svg?logo=c&logoColor=white">
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 

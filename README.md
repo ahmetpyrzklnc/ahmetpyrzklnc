@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ahmet KILINÇ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+and+Computer+Science+Student;Full+-+Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+and+Computer+Science+Student;Junior+Full+-+Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </a>
 </p>
 <hr/>
@@ -60,7 +60,7 @@ I am currently actively interested in Full-Stack Web development technologies.
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases 
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>

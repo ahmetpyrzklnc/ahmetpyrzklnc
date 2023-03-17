@@ -1,117 +1,95 @@
-<h1 align="center">Hi , I'm Ahmet KILINÇ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Ahmet KILINÇ
+</h1>
+
+<br>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+and+Computer+Science+Student;Jr.+Full+-+Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </a>
 </p>
-<hr/>
-<h4 align="center">I continue my software adventure, which I started in 2020, by winning Management Information System (MIS) in 2021.
-<br>
-<br>
-I am currently actively interested in Full-Stack Web development technologies.
-</h4>
-<br>
 
+<br> 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=algolia" alt="ahmetpyrzklnc"  /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+- 🌱 I continue my software adventure, which I started in 2020, by winning Management Information System (MIS) in 2021.
+
 <br>
 
-## 🛠️ My Skills
+- 🌱 I am currently actively interested in Full-Stack Web development technologies.
 
-### 👉 Programming languages
+<br>
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Databases 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
- </p>
-  
+  <a href="https://www.linkedin.com/in/ahmet-k%C4%B1l%C4%B1n%C3%A7-1040pyrz" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="ahmet kilinc" height="30" width="40" /></a>
+  <a href="https://instagram.com/ahmtklnc_?igshid=NTE5MzUyOTU=" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="ahmtklnc_" height="30" width="40" /></a>
+  <a href="http://bit.ly/3Jidcw2" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg"
+      alt="ahmet-kilinc" height="30" width="40"/></a>
+</p>
+
+<br>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
- 
-  
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a>
+<a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img
+      src="https://www.svgrepo.com/show/373980/plsql.svg"
+      alt="sql-server" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgre-sql" width="40" height="40" /> </a> </a> <a href="#" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg"
+      alt="go" width="40" height="40" /> </a>  <a href="#" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"
+      alt="spring" width="30" height="30" /> </a></p>
+<br>
 
- ### 👉 Software & Tools
- 
-<p>
-&emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetpyrzklnc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="ahmetpyrzklnc" 
+    bg_color=#808080/></p>
 
-<br/>
+<br>
 
-## 📊 Github Stats (Expand to View) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetpyrzklnc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="ahmetpyrzklnc" /></p>
 
+<br>
 
-
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetpyrzklnc&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  </p>
-  <b>Note:</b> In my projects, the distribution of technology is generally like this level.
-  </p>
-</details>
-
-<br/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:ahmetklnc.software@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/ahmetpyrzklnc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ahmet-k%C4%B1l%C4%B1n%C3%A7-1040pyrz"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ahmetpyrzklnc" /></p>
+      
 <hr/>
 
-* Credit: [ahmetpyrzklnc](https://github.com/ahmetpyrzklnc)
-* Last Edited on: 01/09/2022
-
-
+* Credit: [ahmetpyrzklnc] (https://github.com/ahmetpyrzklnc)
+* Last Edited on: 17.03.2023

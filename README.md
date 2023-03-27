@@ -91,5 +91,5 @@
       
 <hr/>
 
-* Credit: [ahmetpyrzklnc] (https://github.com/ahmetpyrzklnc)
+* Credit: [ahmetpyrzklnc](https://github.com/ahmetpyrzklnc)
 * Last Edited on: 17.03.2023

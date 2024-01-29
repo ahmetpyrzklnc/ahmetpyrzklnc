@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 I am currently actively interested in Full-Stack Web development technologies.
+- 🌱 I am currently actively interested in Data-Science technologies.
 
 <br>
 

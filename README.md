@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="ahmtklnc_" height="30" width="40" /></a>
   <a href="http://bit.ly/3Jidcw2" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/799ca47088e2cff35ff558fe3045a2d1a5f2a506/icons/chainlink.svg"
       alt="ahmet-kilinc" height="30" width="40"/></a>
 </p>
 

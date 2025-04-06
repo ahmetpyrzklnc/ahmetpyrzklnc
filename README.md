@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 I am currently actively interested in Data-Science technologies.
+- 🌱 I am currently actively interested in Generative AI technologies.
 
 <br>
 

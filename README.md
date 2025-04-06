@@ -22,13 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmet-k%C4%B1l%C4%B1n%C3%A7-1040pyrz" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/ahmetklnc" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ahmet kilinc" height="30" width="40" /></a>
-  <a href="https://instagram.com/ahmtklnc_?igshid=NTE5MzUyOTU=" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ahmtklnc_" height="30" width="40" /></a>
-  <a href="http://bit.ly/3Jidcw2" target="blank"><img align="center"
+  <a href="[http://bit.ly/3Jidcw2](https://ahmetpyrzklnc.github.io/ahmetklnc_.github.io/)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/simple-icons/simple-icons/799ca47088e2cff35ff558fe3045a2d1a5f2a506/icons/chainlink.svg"
       alt="ahmet-kilinc" height="30" width="40"/></a>
 </p>

@@ -1,92 +1,105 @@
-<h1 align="center">Hi 👋, I'm Ahmet KILINÇ
-</h1>
+<!-- AI-themed Profile Banner -->
+<img src="https://github.com/ahmetpyrzklnc/WebCodeCanvas/blob/main/github_prfile.png?raw=true" alt="AI Banner" width="100%"/>
 
-<br>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ahmet</h1></summary>
+  </ul>
+</div>
+
+<!-- GitHub Heatmap -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmetpyrzklnc&theme=react-dark&hide_border=true" alt="GitHub Heatmap" />
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">AI is a craft — confusion is just the first step</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+- 🧠 I’m currently working as an **AI Developer & PM** on Virtual Try-On systems.
+
+- 🧰 I work with **Python, Huggingface, Web Scraping**, and **Computer Vision** models.
+
+- 🌍 Interested in **AI Agents, Multimodal Systems**, and generative models.
+
+- 📚 Learning **LLMs, fine-tuning methods, and scalable AI deployment** strategies.
+
+- 🧪 Previously worked on fine-tuning **LLaMA with Alpaca**, and image generation for real-time fitting room experiences.
+
+- 💬 Ask me about **diffusion models, dataset collection, AI workflows**
+
+- 📫 Reach me at: **ahmetklnc.dev@gmail.com**
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetpyrzklnc&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmetpyrzklnc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ahmetpyrzklnc&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+<!--- stats (end) -->
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stack I Work With 🛠️</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F3F1F7&lines=MIS+and+Computer+Science+Student;Junior+Data+Scientist+and+Data+Analyst;Always+learning+new+things" alt="Typing SVG" /></a>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,react,tailwind,nextjs,cloudflare,aws,vercel,vscode,docker,opencv,mongodb,postman,figma,github,html,css,js,tensorflow,pytorch,notion" />
+  </a>
 </p>
 
-<br> 
+<!-- Latest Blog Post -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📝 Latest Blog Post</h2></summary>
+  </ul>
+</div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- 🌱 I continue my software adventure, which I started in 2020, by winning Management Information System (MIS) in 2021.
-
-<br>
-
-- 🌱 I am currently actively interested in Generative AI technologies.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/ahmetklnc" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ahmet kilinc" height="30" width="40" /></a>
-  <a href="[http://bit.ly/3Jidcw2](https://ahmetpyrzklnc.github.io/ahmetklnc_.github.io/)" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/799ca47088e2cff35ff558fe3045a2d1a5f2a506/icons/chainlink.svg"
-      alt="ahmet-kilinc" height="30" width="40"/></a>
+<p align="center">
+  <a href="https://medium.com/@ahmetklnc/llama-3-1-8byi-fine-tune-etmek-ad%C4%B1m-ad%C4%B1m-k%C4%B1lavuz-3fdc532e5fef" target="_blank"><b>LLAMA 3 8B’yi Fine-Tune Etmek: Adım Adım Kılavuz</b></a><br/>
+  <i>Biraz sabır, bolca GPU. Alpaca usulüyle LLAMA 3 8B’yi verimli biçimde eğitmenin püf noktaları.</i>
 </p>
 
-<br>
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Let's Connect 🚀</h2></summary>
+  </ul>
+</div>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmetklnc" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
+<a href="https://medium.com/@ahmetklnc" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="50" width="50" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
-<a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img
-      src="https://www.svgrepo.com/show/373980/plsql.svg"
-      alt="sql-server" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgre-sql" width="40" height="40" /> </a> </a> <a href="#" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg"
-      alt="go" width="40" height="40" /> </a>  <a href="#" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"
-      alt="spring" width="30" height="30" /> </a></p>
-<br>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ahmetpyrzklnc&icon=3&color=6" alt="Visitor Count" />
+</div>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetpyrzklnc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ahmetpyrzklnc" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetpyrzklnc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ahmetpyrzklnc" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetpyrzklnc&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ahmetpyrzklnc" /></p>
-      
-<hr/>
-
-* Credit: [ahmetpyrzklnc](https://github.com/ahmetpyrzklnc)
-* Last Edited on: 17.03.2023
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -10,7 +10,7 @@
 
 <!-- GitHub Heatmap -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmetpyrzklnc&theme=react-dark&hide_border=true" alt="GitHub Heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetpyrzklnc&theme=react-dark&hide_border=true" alt="GitHub Heatmap" />
 </div>
 
 <!--h2 without bottom border-->
@@ -22,17 +22,11 @@
 
 <!--Intro start-->
 - 🧠 I’m currently working as an **AI Developer & PM** on Virtual Try-On systems.
-
 - 🧰 I work with **Python, Huggingface, Web Scraping**, and **Computer Vision** models.
-
 - 🌍 Interested in **AI Agents, Multimodal Systems**, and generative models.
-
 - 📚 Learning **LLMs, fine-tuning methods, and scalable AI deployment** strategies.
-
 - 🧪 Previously worked on fine-tuning **LLaMA with Alpaca**, and image generation for real-time fitting room experiences.
-
 - 💬 Ask me about **diffusion models, dataset collection, AI workflows**
-
 - 📫 Reach me at: **ahmetklnc.dev@gmail.com**
 
 <!--Intro end-->
@@ -98,7 +92,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ahmetpyrzklnc&icon=3&color=6" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ahmetpyrzklnc&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
 
 <!--horizontal divider(gradiant)-->
